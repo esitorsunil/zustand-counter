@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/zustand-counter/static/css/main.31d6cfe0.css",
+    "main.js": "/zustand-counter/static/js/main.d2177f4c.js",
+    "static/js/453.9fce4d26.chunk.js": "/zustand-counter/static/js/453.9fce4d26.chunk.js",
+    "index.html": "/zustand-counter/index.html",
+    "main.d2177f4c.js.map": "/zustand-counter/static/js/main.d2177f4c.js.map",
+    "453.9fce4d26.chunk.js.map": "/zustand-counter/static/js/453.9fce4d26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d2177f4c.js"
+  ]
+}
